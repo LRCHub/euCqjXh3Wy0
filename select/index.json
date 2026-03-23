@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "瞳にめざめて",
+  "base_artist": "My Hair is Bad",
+  "createdAt": "2026-03-23T04:27:55.894934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瞳にめざめて",
+      "artist": "My Hair is Bad",
+      "has_synced": true,
+      "path": "select/01_瞳にめざめて_My_Hair_is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞳にめざめて",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_瞳にめざめて_My_Hair_is_Bad.txt"
+    }
+  ]
+}
